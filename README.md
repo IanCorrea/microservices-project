@@ -6,24 +6,24 @@
 - Next.js
 - Apollo Client (GraphQL)
 
-## Funcionalidades
+## Functionalities
 
-### Serviço de compras (purchases)
+### Purchasing service
 
-- [Admin] Products Register --Cadastro de produtos
-- [Admin] Products List --Listagem de produtos
+- [Admin] Products Registration
+- [Admin] Products Listing
 
-- [Auth] Purchase List --Listagem de compras
+- [Auth] Purchase Listing
 
-- [Public] Product Purchase --Compra de um produto
-- [Public] Available products list for purchase --Lista produtos disponíveis p/ compra
+- [Public] Purchase a product
+- [Public] List of products available for purchase
 
-### Serviço de sala de aula (classroom)
+### Classroom service 
 
-- [Admin] Listar matrículas
-- [Admin] Listar alunos
-- [Admin] Listar cursos
-- [Admin] Cadastrar cursos
+- [Admin] List enrollments
+- [Admin] List students
+- [Admin] List courses
+- [Admin] Register courses
 
-- [Auth] Listar cursos que tenho acesso
-- [Auth] Acessar conteúdo do curso
+- [Auth] List courses I have access to
+- [Auth] Access course content
